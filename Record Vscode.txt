@@ -1,0 +1,24 @@
+2022-04-29 15:28:32.774132: I tensorflow/core/platform/cpu_feature_guard.cc:142] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX AVX2
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2022-04-29 15:28:33.151878: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1510] Created device /job:localhost/replica:0/task:0/device:GPU:0 with 5963 MB memory:  -> device: 0, name: NVIDIA GeForce RTX 2080 SUPER, pci bus id: 0000:04:00.0, compute capability: 7.5
+2022-04-29 15:28:33.521767: I tensorflow/compiler/mlir/mlir_graph_optimization_pass.cc:185] None of the MLIR Optimization Passes are enabled (registered 2)
+2022-04-29 15:28:34.978497: I tensorflow/stream_executor/cuda/cuda_dnn.cc:369] Loaded cuDNN version 8101
+
+Year: 1987 prediction of the next 3 months
+1/1 [==============================] - 0s 318ms/step - loss: 12.6189 - mean_squared_error: 5.8430
+Year: 1987 prediction of the next 6 months
+1/1 [==============================] - 0s 286ms/step - loss: 21.4359 - mean_squared_error: 11.4522
+Year: 1987 prediction of the next 12 months
+1/1 [==============================] - 0s 290ms/step - loss: 25.5057 - mean_squared_error: 12.8415
+Year: 1988 prediction of the next 3 months
+1/1 [==============================] - 0s 279ms/step - loss: 15.1681 - mean_squared_error: 8.3459
+Year: 1988 prediction of the next 6 months
+1/1 [==============================] - 0s 276ms/step - loss: 22.8974 - mean_squared_error: 11.4532
+Year: 1988 prediction of the next 12 months
+1/1 [==============================] - 0s 285ms/step - loss: 29.6565 - mean_squared_error: 16.9872
+Year: 1989 prediction of the next 3 months
+1/1 [==============================] - 0s 280ms/step - loss: 20.2148 - mean_squared_error: 13.3047
+Year: 1989 prediction of the next 6 months
+1/1 [==============================] - 0s 278ms/step - loss: 23.7902 - mean_squared_error: 12.6433
+Year: 1989 prediction of the next 12 months
+1/1 [==============================] - 0s 281ms/step - loss: 31.6298 - mean_squared_error: 18.9534
