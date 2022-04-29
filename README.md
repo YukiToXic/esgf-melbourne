@@ -35,21 +35,21 @@ For each evaluation year `t`, you must report the performance considering `k=3`,
     <tbody>
         <tr>
             <td>1987</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>loss: 12.6189 - mean_squared_error: 5.8430</td>
+            <td>loss: 21.4359 - mean_squared_error: 11.4522</td>
+            <td>loss: 25.5057 - mean_squared_error: 12.8415</td>
         </tr>
         <tr>
             <td>1988</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>loss: 15.1681 - mean_squared_error: 8.3459</td>
+            <td>loss: 22.8974 - mean_squared_error: 11.4532</td>
+            <td>loss: 29.6565 - mean_squared_error: 16.9872</td>
         </tr>
         <tr>
             <td>1989</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td>loss: 20.2148 - mean_squared_error: 13.3047</td>
+            <td>loss: 23.7902 - mean_squared_error: 12.6433</td>
+            <td>loss: 31.6298 - mean_squared_error: 18.9534</td>
         </tr>
     </tbody>
 </table>
